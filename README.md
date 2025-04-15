@@ -5,7 +5,7 @@ I'm knowledgeable in general computing as well as the programming languages list
 
 ## Languages I may speak or understand, and my confidence in them..
 ---
-🇺🇸 American English: 🟥🟥🟨🟨🟩🟩
+🇺🇸 American English: 🟥🟥🟨🟨🟩🟩<br/>
 🇬🇧 Commonwealth English: 🟥🟥🟨🟨🟩
 🇩🇪 Standard German: 🟥🟥🟨
 🇪🇸 Pureto Rican Spanish: 🟥
