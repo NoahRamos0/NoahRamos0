@@ -8,7 +8,6 @@ I'm knowledgeable in general computing as well as the programming languages list
 🇺🇸 American English: 🟥🟥🟨🟨🟩🟩<br/>
 🇬🇧 Commonwealth English: 🟥🟥🟨🟨🟩<br/>
 🇩🇪 Standard German: 🟥🟥🟨<br/>
-🇪🇸 Pureto Rican Spanish: 🟥<br/>
 
 
 ## Programming Languages I use OFTEN, and my confidence in them.. <br/>
